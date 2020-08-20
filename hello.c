@@ -12,7 +12,6 @@ int main(int argc, char **argv) {
 
 
     printf("Nicholas White\n");
-    printf("Mathematics\n");
 
     return 0;
 
